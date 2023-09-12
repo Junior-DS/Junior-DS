@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Junior janagha
+- 👋 Hi, I’m @江河
 - 👀 I’m interested in AI and DATA SCIENCE
 - 🌱 I’m currently learning PYTHON and other stuff
 - 📫 How to reach me : janaghajunior@gmail.com
