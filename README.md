@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nobody
+- 👋 Hi, I’m jan
 - 👀 I’m interested in AI and DATA SCIENCE
 - 🌱 I’m currently learning PYTHON and other stuff
 - 📫 How to reach me : janaghajunior@gmail.com
